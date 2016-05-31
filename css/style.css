@@ -13,6 +13,18 @@
     width:1200px;
     height:400px;
 }
+#wrapper .contentcover{
+    margin:20px;
+    width:1200px;
+    height:240px;/*200+(20*2)*/
+}
+#wrapper .contentcover .contentbox{
+    float:left;
+    margin:20px;
+    width:200px;
+    height:200px;
+    background-color: #409ca3;
+}
 #wrapper #info{
     float:right;
     width:800px;
