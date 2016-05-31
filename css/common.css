@@ -36,10 +36,10 @@ header ul li{
     list-style:none;
     margin: 0;
     float: left;
-    width: 300px;
+    width: 20%; /*100÷li要素の数を百分率で代入すること*/
     height: 40px;
     line-height: 40px;
-    color: #62b4cc;
+    color: #92e5fe;
     text-align: center;
 }
 
