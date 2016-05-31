@@ -10,9 +10,25 @@
     background-color: rgba(64,156,163,0.5);
 }
 #main #wrapper #outline{
-    display:block;
-    margin:10px;
+    padding:50px;
+    padding-bottom:20px;
 }
 #main #wrapper #outline .font{
+    margin:10px;
     color:#ffffff;
+}
+#main #wrapper #calendar{
+    padding-left:50px;
+    padding-bottom:50px;
+}
+#main #wrapper #calender table{
+    border:0;
+    text-align:center;
+    background-color: rgba(204,204,204,1);
+    font-size: 12px;
+    color:#666666;
+}
+#main #wrapper #calender table .month{
+    height:80px;
+    background-color: rgba(238,238,238,0.5);
 }
