@@ -9,6 +9,10 @@
     width:1200px;
     height:400px;
 }
+#wrapper #main-image img{
+    width:1200px;
+    height:400px;
+}
 #wrapper #info{
     float:right;
     width:800px;
